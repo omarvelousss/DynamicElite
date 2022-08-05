@@ -144,10 +144,10 @@ p::before {
   
 button {
     display: block;
-    margin: 40px auto;
-    width: 20%;
-    padding: 15px;
-    font-size: 15;
+    margin: 30px auto;
+    width: 30%;
+    padding: 10px;
+    font-size: 13px;
     background: #d0d0d5;
     border: 3px solid #3b3b4f;
 }
