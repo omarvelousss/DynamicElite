@@ -54,7 +54,7 @@ nav > ul {
 
 nav > ul > li {
     color: #000;
-    margin: 0 0.2rem;
+    margin: 0 0.5rem;
     padding: 0.2rem;
     display: block;
 }
@@ -150,6 +150,11 @@ button {
     font-size: 13px;
     background: #d0d0d5;
     border: 3px solid #3b3b4f;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #4169e1;
 }
   
 footer {
